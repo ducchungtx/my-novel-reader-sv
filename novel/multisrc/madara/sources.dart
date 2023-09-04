@@ -3,7 +3,7 @@ import '../../../utils/utils.dart';
 
 const madaraVersion = "0.0.13";
 const madaraSourceCodeUrl =
-    "https://raw.githubusercontent.com/ducchungtx/my-novel-reader-sv/main/novel/multisrc/madara/madara-v$madaraVersion.dart";
+    "https://raw.githubusercontent.com/ducchungtx/my-novel-reader-sv/master/novel/multisrc/madara/madara-v$madaraVersion.dart";
 const defaultDateFormat = "MMMM dd, yyyy";
 const defaultDateFormatLocale = "en_US";
 
