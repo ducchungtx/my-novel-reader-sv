@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chibi Manga",
+    "id": 105430403,
+    "baseUrl": "https://www.cmreader.info",
+    "lang": "en",
+    "typeSource": "madara",
+    "iconUrl": "https://raw.githubusercontent.com/ducchungtx/my-novel-reader-sv/main/icons/mynovelreader-en-chibimanga.png",
+    "dateFormat": "MMMM dd, yyyy",
+    "dateFormatLocale": "en_US",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/ducchungtx/my-novel-reader-sv/main/novel/multisrc/madara/madara-v0.0.13.dart",
+    "apiUrl": "",
+    "version": "0.0.13",
+    "isFullData": false,
+    "appMinVerReq": "0.0.21"
+  }
+]
